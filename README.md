@@ -1,2 +1,2 @@
 # Novartis
-https://githubsfdeploy.herokuapp.com/app/githubdeploy/matcadg/Novartis
+https://githubsfdeploy-sandbox.herokuapp.com/app/githubdeploy/matcadg/Novartis
